@@ -1,0 +1,61 @@
+"statusBar": {
+    "text": "#c6d0f5",
+    "blockText": "#232634",
+    "background": "#949cbb",
+    "versionBackground": "#99d1db",
+    "drives": {
+      "modeBackground": "#99d1db",
+      "capacityBackground": "#99d1db",
+      "freeBackground": "#99d1db",
+      "usedBackground": "#99d1db"
+    },
+    "dirs": {
+      "pathBackground": "#99d1db",
+      "modeBackground": "#99d1db",
+      "sizeBackground": "#ef9f76",
+      "dirsBackground": "#8caaee",
+      "filesBackground": "#a6d189",
+      "rowsCounter": "#ea999c"
+    }
+  },
+  "chart": {
+    "border": "#626880",
+    "sector1": "#99d1db",
+    "sector2": "#85c1dc",
+    "sector3": "#8caaee",
+    "sector4": "#babbf1",
+    "sector5": "#f2d5cf",
+    "sector6": "#eebebe",
+    "sector7": "#f4b8e4",
+    "sector8": "#ca9ee6",
+    "sector9": "#e78284"
+    },
+  "cellText": "#c6d0f5",
+  "tableHeaderBorder": "#626880",
+  "selectedRowText": "#292c3c",
+  "selectedRowBackground": "#99d1db",
+  "markedRowText": "#292c3c",
+  "markedRowBackground": "#ca9ee6",
+  "topFilesText": "#99d1db",
+  "helpText": "#a5adce",
+  "bindingText": "#99d1db",
+  "dialogBoxBorder": "#e78284",
+  "confirmButtonText": "#c6d0f5",
+  "confirmButtonBackground": "#232634",
+  "activeButtonText": "#292c3c",
+  "activeButtonBackground": "#99d1db",
+  "diffAddedMarker": "#a6d189",
+  "diffRemovedMarker": "#e78284",
+  "filterText": "#99d1db",
+  "usageThresholdText": "#e78284",
+  "sizeUnit": {
+    "GB": "#eebebe",
+    "TB": "#e5c890",
+    "PB": "#ef9f76",
+    "EB": "#e78284",
+  },
+  "scanProgressBar": {
+    "startColor": "#ca9ee6",
+    "endColor": "#81c8be"
+  }
+}
